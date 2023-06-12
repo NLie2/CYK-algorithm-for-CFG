@@ -1,5 +1,5 @@
 # CYK-algorithm-for-CFG
-Implementation of the Cocke–Younger–Kasami algorithm (also known as CKY algorithm) for context-free-grammars, which I completed for a Natural Language Processing course.
+Python implementation of the Cocke–Younger–Kasami algorithm (also known as CKY algorithm) for context-free-grammars, which I completed for a Natural Language Processing course.
 
 The Symbol, Rule, and PCFG (sub)-classes were given as part of the assignment
 
